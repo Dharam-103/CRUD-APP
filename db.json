@@ -1,0 +1,52 @@
+{
+  "products": [
+    {
+      "image": "https://rukminim1.flixcart.com/image/612/612/xif0q/sari/w/9/d/free-iprsa01-pr-green-orus-unstitched-original-imag3twnyz9gspgk.jpeg?q=70",
+      "brand": "Nimidiya",
+      "description": "Saree",
+      "price": 1299,
+      "gender": "female",
+      "id": 11
+    },
+    {
+      "image": "https://rukminim1.flixcart.com/image/612/612/xif0q/kurta/w/7/l/xxl-purple-kurti-ritosa-original-imagkrz4j7hvdqug.jpeg?q=70",
+      "brand": "Human Being",
+      "description": "Kurta",
+      "price": 6000,
+      "gender": "female",
+      "id": 12
+    },
+    {
+      "image": "https://rukminim1.flixcart.com/image/612/612/kdxfc7k0hlty2aw-0/kids-ethnic-set/s/7/9/1-2-years-1-tdk-21-ftc-fashions-original-imafusd6pxrusjr3.jpeg?q=70",
+      "brand": "Louis Vitton",
+      "description": "Ethnic",
+      "price": 10000,
+      "gender": "kids",
+      "id": 13
+    },
+    {
+      "image": "https://rukminim1.flixcart.com/image/612/612/km9ht3k0/kids-apparel-combo/z/l/x/6-7-years-ck20190135-cutiekins-original-imagf7cmry9axagh.jpeg?q=70",
+      "brand": "Black-Berry",
+      "description": "Fashion",
+      "price": 1999,
+      "gender": "kids",
+      "id": 14
+    },
+    {
+      "image": "https://rukminim1.flixcart.com/image/612/612/xif0q/t-shirt/w/j/a/xl-tsrt-catalog-03-makemode-original-imagh99vhyzerpyw.jpeg?q=70",
+      "brand": "Roadster",
+      "description": "Jeans",
+      "price": 2999,
+      "gender": "male",
+      "id": 15
+    },
+    {
+      "image": "https://rukminim1.flixcart.com/image/612/612/xif0q/t-shirt/w/j/a/xl-tsrt-catalog-03-makemode-original-imagh99vhyzerpyw.jpeg?q=70",
+      "brand": "Roadster",
+      "description": "Jeans",
+      "price": 3999,
+      "gender": "male",
+      "id": 16
+    }
+  ]
+}
